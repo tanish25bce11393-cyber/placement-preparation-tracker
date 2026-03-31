@@ -35,7 +35,7 @@ def ai_suggestion():
     print("\n--- AI Analysis ---")
 
     if easy > medium:
-        print("You are solving many easy problems. Try medium level.")
+        print("You are solving many easy problems.Try solving medium-level problems to improve.")
     elif medium > hard:
         print("Good progress! Try more hard problems.")
     else:
