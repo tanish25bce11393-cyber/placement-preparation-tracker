@@ -48,6 +48,7 @@ def menu():
         print("2. View Tasks")
         print("3. AI Suggestion")
         print("4. Exit")
+        print("5. Total Tasks")
 
         choice = input("Enter choice: ")
 
@@ -59,6 +60,8 @@ def menu():
             ai_suggestion()
         elif choice == "4":
             print("Goodbye!")
+        elif choice == "5":
+            print("Total tasks:", len(tasks))    
             break
         else:
             print("Invalid choice")
