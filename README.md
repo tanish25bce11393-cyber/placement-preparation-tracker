@@ -2,33 +2,33 @@
 
 # AI-Based Placement Preparation Tracker
 
-## 📌 Problem
+##  Problem
 Students struggle to track their placement preparation and coding practice.
 
-## 💡 Solution
+##  Solution
 
 This project is a Python-based tracker that helps users record problems solved and get AI-based suggestions.
 
-## 🤖 AI Feature
+##  AI Feature
 
 The system analyzes the difficulty of solved problems (easy/medium/hard) and suggests what to do next.
 
-## 🚀 Features
+##  Features
 
 - Add solved problems
 - View tasks
 - AI-based suggestions
 
-## 🛠️ Tech Used
+##  Tech Used
 
 - Python
 
-## ▶️ How to Run
+##  How to Run
 
 Run the program using:
 python main.py
 
-## 🔮 Future Scope
+##  Future Scope
 
 - Add data saving
 - Add GUI interface
