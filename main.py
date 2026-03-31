@@ -43,7 +43,7 @@ def ai_suggestion():
 
 def menu():
     while True:
-        print("\n--- AI Placement Tracker ---")
+        print("\n=== AI Placement Preparation Tracker ===")
         print("1. Add Task")
         print("2. View Tasks")
         print("3. AI Suggestion")
